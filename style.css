@@ -1,0 +1,29 @@
+* {
+    font-family: 'Oswald', sans-serif;
+}
+
+body {
+    background-color: beige;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+  
+  h1 {
+    color:rgba(120, 120, 120); ;
+    font-size: 40px;
+  }
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+#btn {
+    background-color: beige;
+    border: none;
+    color: rgba(120, 120, 120);
+    text-transform: uppercase;
+}
